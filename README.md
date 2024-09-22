@@ -20,7 +20,7 @@ The script captures video from your webcam, processes each frame with `Mediapipe
 
 ## Project Structure:
 - `main.py`: The final rendition of this project, containing the complete code for iris tracking and mouse control. This script integrates all features and settings for seamless interaction.
-- `requirements.txt`: List of dependencies needed to run the project.
+- `requirements.txt`: List of dependencies needed to run the project. (Removed)
 - `config.py` (optional): You can add a config file for storing sensitivity settings and customizable parameters for fine-tuning the experience.
 
 ## How to Use:
